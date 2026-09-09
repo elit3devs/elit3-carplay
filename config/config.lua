@@ -60,8 +60,8 @@ Elit3.ParkingSensor = {
 
 Elit3.DebugCamera = false
 Elit3.VehCamOffset = {
-    [`bus`] = { front = {0.000000, 6.680000, 0.670000} },
-    [`bati`] = { front = {0.000000, 0.350000, 0.790000}, back = {0.000000, -1.230000, 0.650000} },
+    ["bus"] = { front = { 0.000000, 6.680000, 0.670000 } },
+    ["bati"] = { front = { 0.000000, 0.350000, 0.790000 }, back = { 0.000000, -1.230000, 0.650000 } },
 }
 
 Elit3.ServerInfo = {
@@ -75,6 +75,6 @@ Elit3.Default_Playlist = {
 Elit3.RestrictionMethod = 'BL'
 
 Elit3.AddVehicle = {
-    `hydra`,
-    `jet`,
+    "hydra",
+    "jet",
 }
