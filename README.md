@@ -7,7 +7,7 @@
 - Full CarPlay UI with dark/light mode
 - Music player with YouTube URL playback
 - Car controls (engine, doors, windows, headlights, hazards, neon RGB)
-- AI Assistant (Gemini-powered)
+- AI Assistant (Gemini powered)
 - Snake game
 - Video player
 - Auto Pilot
